@@ -1,5 +1,6 @@
 # Advanced_AI_for_Business_Applications
-This is a repository for materials of UMN MSBA6461 Advanced_AI_for_Business_Applications.  
+This is a repository for materials of UMN MSBA6461 Advanced_AI_for_Business_Applications.    
+Professor's GitHub link: https://github.com/mochenyang/MSBA6460-Advanced-AI.git
 
 ## Topics 
 - Refresher on Neural Networks
