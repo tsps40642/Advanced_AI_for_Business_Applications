@@ -1,5 +1,6 @@
 # Advanced_AI_for_Business_Applications
-This is a repository for materials of UMN MSBA6461 Advanced_AI_for_Business_Applications.    
+This is a repository for my notes of UMN MSBA6461 Advanced_AI_for_Business_Applications.    
+All material credits belong to Professor Mochen Yang. 
 Professor's GitHub link: https://github.com/mochenyang/MSBA6460-Advanced-AI.git
 
 ## Topics 
